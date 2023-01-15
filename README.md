@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 
 [![Haydenull's GitHub stats](https://github-readme-stats.vercel.app/api?username=haydenull&show_icons=true&bg_color=135deg,ededed,fff)](https://github.com/anuraghazra/github-readme-stats)
-[![Haydenull's GitHub stats](https://github-readme-stats.vercel.app/api?username=haydenull&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Haydenull's GitHub stats](https://github-readme-stats.vercel.app/api?username=haydenull&show_icons=true&bg_color=135deg,ededed,fff)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://www.buymeacoffee.com/haydenull"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=haydenull&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
