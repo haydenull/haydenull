@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haydenull&show_icons=true&theme=vue-dark#gh-dark-mode-only" alt="Haydenull's github stats" /></a><a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haydenull&show_icons=true&theme=vue#gh-light-mode-only" alt="Haydenull's github stats" /></a>
 
-<div style="max-width:190px;">
+<div width="190">
 <a href="https://www.buymeacoffee.com/haydenull"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=haydenull&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 </div>
