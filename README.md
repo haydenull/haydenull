@@ -22,6 +22,19 @@ Here are some ideas to get you started:
 <!-- | <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img align="center" src="https://github-readme-stats-psi-kohl.vercel.app/api?username=haydenull&show_icons=true&theme=vue-dark&hide_border=true#gh-dark-mode-only" alt="Haydenull's github stats" /></a><a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img align="center" src="https://github-readme-stats-psi-kohl.vercel.app/api?username=haydenull&show_icons=true&theme=vue&hide_border=true#gh-light-mode-only" alt="Haydenull's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img align="center" src="https://github-readme-stats-psi-kohl.vercel.app/api/top-langs/?username=haydenull&layout=compact&theme=vue-dark&hide_border=true" /></a><a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img align="center" src="https://github-readme-stats-psi-kohl.vercel.app/api/top-langs/?username=haydenull&layout=compact&theme=vue&hide_border=true" /></a> |
 | ------------- | ------------- | -->
 
+Hi there! 🖐️ I'm Hyaden, a front-end developer with a passion for using technology to increase personal efficiency and productivity 💡.
+
+Here's what I'm all about:
+
+I've created a collection of Logseq plugins, including an Agenda tool, to help others achieve their goals 🎯.
+My toolkit includes the Pomodoro Technique and Lyubichev time statistics, which I use to manage my time and track my productivity effectively 💪.
+I believe in the power of open source software and am constantly striving to create work that will be helpful to others 🙌.
+If you'd like to connect with me:
+
+Reach out via Twitter at [@haydenull 🐦](https://twitter.com/haydenull)
+Send an email to [hayden.chen.b612@gmail.com 📧](hayden.chen.b612@gmail.com)
+Check out my [blog](https://blog.haydenhayden.com), to learn more about my work and thoughts on personal productivity 💻.
+
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haydenull&show_icons=true&theme=vue-dark#gh-dark-mode-only" alt="Haydenull's github stats" /></a><a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haydenull&show_icons=true&theme=vue#gh-light-mode-only" alt="Haydenull's github stats" /></a>
 
 <a href="https://www.buymeacoffee.com/haydenull"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=haydenull&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" width="190" /></a>
