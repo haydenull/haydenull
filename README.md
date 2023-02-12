@@ -36,6 +36,8 @@ If you'd like to connect with me:
 - 📧 Send an email to hayden.chen.b612@gmail.com.
 - 💻 Check out my blog, [haydenhayden.com](https://blog.haydenhayden.com), to learn more about my work and thoughts on personal productivity.
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haydenull&show_icons=true&hide_border=true&hide_title=true&theme=vue-dark#gh-dark-mode-only" alt="Haydenull's github stats" /></a><a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haydenull&show_icons=true&hide_border=true&hide_title=true&theme=vue#gh-light-mode-only" alt="Haydenull's github stats" /></a>
+If you'd like to support me:
 
-<a href="https://www.buymeacoffee.com/haydenull"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=haydenull&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" width="190" /></a>
+- 💖 Buy me a coffee at [buymeacoffee.com/haydenull](https://www.buymeacoffee.com/haydenull) to show your appreciation. 
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haydenull&show_icons=true&hide_border=true&hide_title=true&theme=vue-dark#gh-dark-mode-only" alt="Haydenull's github stats" /></a><a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haydenull&show_icons=true&hide_border=true&hide_title=true&theme=vue#gh-light-mode-only" alt="Haydenull's github stats" /></a>
