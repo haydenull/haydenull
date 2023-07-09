@@ -33,7 +33,7 @@ Here's what I'm all about:
 If you'd like to connect with me:
 
 - 🐦 Reach out via Twitter at [@haydenull](https://twitter.com/haydenull).
-- 📧 Send an email to hayden.chen.b612@gmail.com.
+- 📧 Send an email to hayden.chen.dev@gmail.com.
 - 💻 Check out my blog, [haydenhayden.com](https://blog.haydenhayden.com), to learn more about my work and thoughts on personal productivity.
 
 If you'd like to support me:
