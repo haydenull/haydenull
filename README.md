@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- | <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img align="center" src="https://github-readme-stats-psi-kohl.vercel.app/api?username=haydenull&show_icons=true&theme=vue-dark&hide_border=true#gh-dark-mode-only" alt="Haydenull's github stats" /></a><a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img align="center" src="https://github-readme-stats-psi-kohl.vercel.app/api?username=haydenull&show_icons=true&theme=vue&hide_border=true#gh-light-mode-only" alt="Haydenull's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img align="center" src="https://github-readme-stats-psi-kohl.vercel.app/api/top-langs/?username=haydenull&layout=compact&theme=vue-dark&hide_border=true" /></a><a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img align="center" src="https://github-readme-stats-psi-kohl.vercel.app/api/top-langs/?username=haydenull&layout=compact&theme=vue&hide_border=true" /></a> |
 | ------------- | ------------- | -->
 
-Hi there! 👋 **I'm Hyaden**, a front-end developer with a passion for using technology to increase personal efficiency and productivity 💡. 
+Hi there! 👋 **I'm Hayden**, a front-end developer with a passion for using technology to increase personal efficiency and productivity 💡. 
 
 Here's what I'm all about:
 
